@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+This is training step.
+This is my first github project.
+
+Bye-bye
